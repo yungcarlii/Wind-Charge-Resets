@@ -1,3 +1,5 @@
+# [![github](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/github_64h.png)](https://github.com/yungcarlii/Wind-Charge-Resets) [![modrinth](https://cdn.jsdelivr.net/npm/@intergrav/devins-badges@3/assets/cozy/available/modrinth_64h.png) ](https://modrinth.com/mod/Wind-Charge-Resets)
+---
 # Wind-Charge-Resets
 Replicate MMC-style spear-mace wind charge momentum resets smoothly in mid-air!
 ---
