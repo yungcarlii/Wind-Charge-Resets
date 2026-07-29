@@ -1,0 +1,30 @@
+{
+	"schemaVersion": 1,
+	"id": "wind-charge-reset",
+	"version": "${version}",
+	"name": "Wind Charge Reset",
+	"description": "MMC-style wind charge momentum resets for Fabric servers.",
+	"authors": [
+		"lilcarlii"
+	],
+	"contact": {
+		"homepage": "https://modrinth.com/plugin/wind-charge-reset"
+	},
+	"license": "CC0-1.0",
+	"icon": "assets/wind-charge-reset/icon.png",
+	"environment": "*",
+	"entrypoints": {
+		"main": [
+			"lilcarlii.windcharge.WindChargeReset"
+		]
+	},
+	"mixins": [
+		"wind-charge-reset.mixins.json"
+	],
+	"depends": {
+		"fabricloader": ">=0.19.3",
+		"minecraft": "~1.21.11",
+		"java": ">=21",
+		"fabric-api": "*"
+	}
+}
